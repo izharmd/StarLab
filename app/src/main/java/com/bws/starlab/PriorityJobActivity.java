@@ -25,6 +25,7 @@ public class PriorityJobActivity extends AppCompatActivity {
 
     List<PriorityJobModel> arrayPrioriryJob;
     private RecyclerView.Adapter adapter;
+    String string= "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
