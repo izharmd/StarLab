@@ -22,7 +22,7 @@ public class PriorityJobActivity extends AppCompatActivity {
     TextView textJob_header;
     ImageView imv_Shutdown;
     private RecyclerView recyclerView;
-
+    int i=0;
     List<PriorityJobModel> arrayPrioriryJob;
     private RecyclerView.Adapter adapter;
     String string= "";
