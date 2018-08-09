@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarLab</string>
+
+    <string name="forgetpassword"><u>Forgot password?</u></string>
+</resources>
